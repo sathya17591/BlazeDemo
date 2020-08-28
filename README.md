@@ -1,5 +1,7 @@
 # BlazeDemo
 
+Automation script for both BlazeDemo and SpaceX API is placed under src/test/java/testScripts
+
 Automated BlazeDemo Website
 Possible scenarios/concepts that could have been covered:
 

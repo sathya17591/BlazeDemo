@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70809" started-at="2020-08-28T08:57:15 IST" finished-at="2020-08-28T08:58:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70809" started-at="2020-08-28T08:57:15 IST" finished-at="2020-08-28T08:58:26 IST">
+      <class name="testScripts.RestAPILaunches">
+        <test-method status="PASS" signature="verifyStatusCode_negative()[pri:-1, instance:testScripts.RestAPILaunches@650e52]" name="verifyStatusCode_negative" duration-ms="29728" started-at="2020-08-28T08:57:15 IST" finished-at="2020-08-28T08:57:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCode_negative -->
+        <test-method status="PASS" signature="getLaunches()[pri:0, instance:testScripts.RestAPILaunches@650e52]" name="getLaunches" duration-ms="32114" started-at="2020-08-28T08:57:45 IST" finished-at="2020-08-28T08:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunches -->
+        <test-method status="PASS" signature="getLaunchDetails()[pri:1, instance:testScripts.RestAPILaunches@650e52]" name="getLaunchDetails" duration-ms="8761" started-at="2020-08-28T08:58:17 IST" finished-at="2020-08-28T08:58:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchDetails -->
+      </class> <!-- testScripts.RestAPILaunches -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
